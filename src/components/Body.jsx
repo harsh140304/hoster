@@ -5,22 +5,22 @@ const Body = () => {
     <div className="space-y-4 lg:flex">
       <div className="relative flex items-center justify-center lg:flex-1 lg:order-2 lg:justify-end">
         <img
-          src="src/assets/Blue-Shape.svg"
+          src="/Blue-Shape.svg"
           alt="1st"
           className="-rotate-[45deg] h-64 md:h-72"
         />
         <img
-          src="src/assets/Pink-Shape.svg"
+          src="/Pink-Shape.svg"
           alt="1st"
           className="absolute -rotate-[30deg] h-64 md:h-72"
         />
         <img
-          src="src/assets/Purple-Shape.svg"
+          src="/Purple-Shape.svg"
           alt="1st"
           className="absolute -rotate-[15deg] h-64 md:h-72"
         />
         <img
-          src="src/assets/Hero-Model.png"
+          src="/Hero-Model.png"
           alt="1st"
           className="absolute h-64 md:h-72"
         />
@@ -57,7 +57,7 @@ const Body = () => {
           </button>
         </form>
         <div className="flex gap-2 margi">
-          <img src="src/assets/Checkmark.svg" alt="checkbox" />
+          <img src="/Checkmark.svg" alt="checkbox" />
           <p className="text-gray-400">No spam,ever . Unsubscribe anytime</p>
         </div>
       </div>
