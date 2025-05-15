@@ -15,7 +15,7 @@ const Footer = () => {
       </li>
     </ul>
     <div className='flex gap-2'>
-      <img src="src/assets/Help-Avatar.svg" alt="help" />
+      <img src="/Help-Avatar.svg" alt="help" />
       <div>
         <p className=''>have any question </p>
         <a href="" className=''>Talk to specialist</a>
